@@ -1,12 +1,31 @@
-## Hi there 👋
+# Hey, I'm Arth 👋
 
-I’m **Arth Singh**, an AI Safety & Red Teaming researcher from **Mumbai, India 🇮🇳**. I am currently working at AIM Intelligence as a Research Engineer in the AI Safety department, and currently collaborating with Jinesis Lab under Zhijing Jin at University of Toronto and Vector Institute, I was also a Research Collaborator with FAR.AI where I helped them build their Red Teaming Toolkit.
- 
+**AI Safety & Red-Teaming researcher** · Mumbai, India 🇮🇳
 
-I love chatting, coffee, photography, talking to close ones and giving people surprises.
+I'm a Research Engineer in the AI Safety department at **AIM Intelligence**, and I collaborate with **Jinesis Lab** under Zhijing Jin at the University of Toronto and the Vector Institute. Previously, I was a Research Collaborator with **FAR.AI**, where I helped build their Red-Teaming Toolkit.
 
-📫 **Let’s connect:**  
-- LinkedIn: https://linkedin.com/in/arthsingh7in
+Outside of research: chatting, coffee, photography, and giving people surprises.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthsingh7in-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthsingh7in)
+[![Email](https://img.shields.io/badge/Email-arth%40aim--intelligence.com-24292f?style=flat&logo=gmail&logoColor=white)](mailto:arth@aim-intelligence.com)
+
+### Selected work
+
+- [arth-whitebox-redteam](https://github.com/Arth-Singh/arth-whitebox-redteam) — open-source framework for mechanistic-interpretability-driven red teaming of LM safety mechanisms
+- [moral-reasoning-ICML](https://github.com/Arth-Singh/moral-reasoning-ICML) — moral-reward reinforcement learning in iterated social-dilemma games
+- [arth-finds-weird-model-behaviours](https://github.com/Arth-Singh/arth-finds-weird-model-behaviours) — a running log of strange LLM behaviours I find in the wild
+- [JEF-Chrome-Extension](https://github.com/Arth-Singh/JEF-Chrome-Extension) — browser extension for scoring jailbreaks with the JEF framework without tab-switching
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages" width="49%">
+  </picture>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
