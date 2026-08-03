@@ -6,6 +6,10 @@ I’m **Arth Singh**, an AI Safety & Red Teaming researcher from **Mumbai, India
 I love chatting, coffee, photography, talking to close ones and giving people surprises.
 
 📫 **Let’s connect:**  
-- LinkedIn: https://linkedin.com/in/arthsingh7in  
+- LinkedIn: https://linkedin.com/in/arthsingh7in
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%">
+</picture>
