@@ -16,17 +16,6 @@ Outside of research: chatting, coffee, photography, and giving people surprises.
 - [arth-finds-weird-model-behaviours](https://github.com/Arth-Singh/arth-finds-weird-model-behaviours) — a running log of strange LLM behaviours I find in the wild
 - [JEF-Chrome-Extension](https://github.com/Arth-Singh/JEF-Chrome-Extension) — browser extension for scoring jailbreaks with the JEF framework without tab-switching
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages" width="49%">
-  </picture>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
