@@ -2,7 +2,7 @@
 
 **AI Safety & Red-Teaming researcher** · Mumbai, India 🇮🇳
 
-I'm a Research Engineer in the AI Safety department at **AIM Intelligence**, and I collaborate with **Jinesis Lab** under Zhijing Jin at the University of Toronto and the Vector Institute. Previously, I was a Research Collaborator with **FAR.AI**, where I helped build their Red-Teaming Toolkit.
+I'm a Research Scientist in the AI Safety department at **AIM Intelligence**, and I collaborate with **Jinesis Lab** under Zhijing Jin at the University of Toronto and the Vector Institute. Previously, I was a Research Collaborator with **FAR.AI**, where I helped build their Red-Teaming Toolkit.
 
 Outside of research: chatting, coffee, photography, and giving people surprises.
 
